@@ -34,7 +34,7 @@ My work bridges three pillars:
 
 #### 🌐 Find me elsewhere
 
-- 🔗 **ORCID:** [0000-0000-0000-XXXX](https://orcid.org/0009-0009-4463-1772)
+- 🔗 **ORCID:** [0009-0009-4463-1772](https://orcid.org/0009-0009-4463-1772)
 - 📧 **Email:** yannickherveagossou [at] gmail [dot] com
 
 
